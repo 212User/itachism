@@ -1,1 +1,1 @@
-<h3><img src="https://cdn.discordapp.com/attachments/1272630740772978738/1276694870907555932/itachi_small.png?ex=66ca7641&is=66c924c1&hm=48da0dbc5d9cb1345840709f4c27595b9cadc2556fac53a61e532ac9b6217cfe&" alt="itachi small"></h3>
+<h3><img src="https://cdn.discordapp.com/attachments/1272627922628247664/1276697928278474816/itachi_small2.png?ex=66ca791a&is=66c9279a&hm=d9fc947aa4d9d8fe017d1fa0e8e4e7d0e2191059a4336e9be0e6f9fbde080ff5&" alt="itachi small"></h3>
